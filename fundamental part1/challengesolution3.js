@@ -31,9 +31,9 @@ const score1Koalas=88;
 const score2Koalas=91;
 const score3Koalas=110;
 
-const scoreDolphins=score1Dolphins+score2Dolphins+score3Dolphins;
+const scoreDolphins=(score1Dolphins+score2Dolphins+score3Dolphins)/3;
 
-const scoreKoalas=score1Koalas+score2Koalas+score3Koalas;
+const scoreKoalas=(score1Koalas+score2Koalas+score3Koalas)/3;
 
 if(scoreDolphins>scoreKoalas){
     console.log("Dolphins win the trophy");
