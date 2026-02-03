@@ -4,6 +4,8 @@
 
 // object in js is to data which is not structured
 // means they can be accessible at any order
+// are accessed through key-value pair
+
 
 // create an object
 
